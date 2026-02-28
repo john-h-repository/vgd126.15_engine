@@ -19,13 +19,13 @@ Properties:
 
 var playerData ={
 	info:{
-		src:`images/snale.png`
+		src:`images/char.png`
 	},
 	states:{
 		//The idle animation 
     	idle:
 		{
-			fps:15,
+			fps:30,
 			cycle:true,
 			frames:
 			[
